@@ -1,0 +1,51 @@
+body
+{
+    background-color: #2D283E;
+}
+#company
+{
+font-weight:  bolder;
+
+}
+#company_div
+{
+    top: 2em;
+    width: 14em;
+    height: 5em;
+    left: 2em;
+}
+div
+{
+    color: #802BB1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:  bolder;
+    border: #4C495D 0.4em solid;
+    position: relative;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.Buttons
+{
+    font-size: 1.4em;
+    width: 14em;
+    height: 5em;
+    top: 10em;
+}
+#alaplap_cards
+{
+    right: 0em;
+    top: 5em;
+    text-align: left;
+}
+#cím
+{
+    margin: auto;
+    padding: auto;
+    color: #802BB1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:  bolder;
+    text-align: center;
+}
