@@ -11,14 +11,14 @@ namespace Alkatreszek
     internal class Beolvas
     {
         string[] components = { "cpu", "motherboard", "graphics card", "ram", "storage", "monitor", "keyboard", "mouse" };
-        object[] cpu = {"cpu", "gyarto", "tipus","orajel", 0, 0}; // Gyártó, típus,órajel, magok száma, ár
+        object[] cpu = {"cpu", "gyarto", "tipus", 0, 0}; // Gyártó, típus, magok száma, ár
         object[] motherb = {"motherboard", "gyarto","tipus", "foglalat", 0 }; //Gyáró, típus, foglalat, ár
         object[] gpu = {"graphics card", "gyarto", "int/ded", "tipus", 0 }; //Gyártó, integrált/dedikált, típus, ár
         object[] ram = {"ram", "gyarto", 0, "orajel", 0};  // Gyártó, méret, órajel, ár
         object[] storage = {"storage", "gyarto", "ssd/hdd", 0, 0}; //Gyártó, ssd/hhd, kapacitás, ár
-        object[] monitor = {"monitor", "gyarto", "felbont", 0, 0, 0}; //Gyártó, méret, felbontás, kéfrissítés, ár
-        object[] keyb = {"keyboard", "gyarto", "mechanic/membran", 0 };  //Gyártó, mehanikus?, ár
-        object[] mouse = {"mouse", "gyarto", "lezer/optikai",0 }; //Gyártó, lézeres/optikai, ár
+        object[] monitor = {"monitor", "gyarto",  0,"felbont", 0}; //Gyártó, méret, felbontás,  ár
+        object[] keyb = {"keyboard", "gyarto", "mechanic/membran", "numpad", 0 };  //Gyártó, mehanikus?, ár
+        object[] mouse = {"mouse", "gyarto", "lezer/optikai",0 ,0}; //Gyártó, lézeres/optikai, dpi,ár
 
         public  string StringInput(string message)
         {
@@ -27,7 +27,7 @@ namespace Alkatreszek
             {
                 Console.Write(message);
                 input = Console.ReadLine();
-            } while (string.IsNullOrEmpty(input)); // Check if the input is null or empty
+            } while (string.IsNullOrEmpty(input));
 
             return input;
         }
@@ -62,20 +62,19 @@ namespace Alkatreszek
                     switch (fajta.ToLower())
                     {
                         case "cpu":                                                                     //cpu
-                            cpu[1] = StringInput("Add meg a gyártóját: ");
-                            cpu[2] = StringInput("Add meg a típusát: ");
-                            cpu[3] = StringInput("Add meg az órajelét: ");
-                            cpu[4] = IntInput("Add meg a  magok számát: ");
-                            cpu[5] = IntInput("Add meg az árát: ");
-                            using (StreamWriter OutputFile = new StreamWriter("alkatreszek.txt", true))
+                            cpu[1] = StringInput("Add meg a gyártóját: ").ToLower();
+                            cpu[2] = StringInput("Add meg a típusát: ").ToLower();
+                            cpu[3] = IntInput("Add meg a  magok számát: ");
+                            cpu[4] = IntInput("Add meg az árát: ");
+                            using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
-                                OutputFile.Write($"{cpu[0]},{cpu[1]},{cpu[2]},{cpu[3]},{cpu[4]},{cpu[5]}\n");
+                                OutputFile.Write($"{cpu[0]},{cpu[1]},{cpu[2]},{cpu[3]},{cpu[4]}\n");
                             }
                             break;
                         case "motherboard":                                                             //motherboard
-                            motherb[1] = StringInput("Add meg a gyártóját: ");
-                            motherb[2] = StringInput("Add meg a típusát: ");
-                            motherb[3] = StringInput("Add meg a foglalatot: ");
+                            motherb[1] = StringInput("Add meg a gyártóját: ").ToLower();
+                            motherb[2] = StringInput("Add meg a típusát: ").ToLower();
+                            motherb[3] = StringInput("Add meg a foglalatot: ").ToLower();
                             motherb[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
@@ -83,9 +82,9 @@ namespace Alkatreszek
                             }
                             break;
                         case "graphics card":                                                           //gpu
-                            gpu[1] = StringInput("Add meg a gyártóját: ");
-                            gpu[2] = StringInput("Integrált vagy dedikált?: ");
-                            gpu[3] = StringInput("Add meg a típusát: ");
+                            gpu[1] = StringInput("Add meg a gyártóját: ").ToLower();
+                            gpu[2] = StringInput("Integrált vagy dedikált?: ").ToLower();
+                            gpu[3] = StringInput("Add meg a típusát: ").ToLower();
                             gpu[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
@@ -93,9 +92,9 @@ namespace Alkatreszek
                             }
                             break;
                         case "ram":                                                                     //ram
-                            ram[1] = StringInput("Add meg a gyártóját: ");
+                            ram[1] = StringInput("Add meg a gyártóját: ").ToLower();
                             ram[2] = IntInput("Add meg a méretét: ");
-                            ram[3] = StringInput("Add meg az órajelét: ");
+                            ram[3] = StringInput("Add meg az órajelét: ").ToLower();
                             ram[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
@@ -103,8 +102,8 @@ namespace Alkatreszek
                             }
                             break;
                         case "storage":                                                                 //storage
-                            storage[1] = StringInput("Add meg a gyártóját: ");
-                            storage[2] = StringInput("SSD vagy HDD: ");
+                            storage[1] = StringInput("Add meg a gyártóját: ").ToLower();
+                            storage[2] = StringInput("SSD vagy HDD: ").ToLower();
                             storage[3] = IntInput("Add meg a kapacitását(GB): ");
                             storage[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
@@ -113,32 +112,33 @@ namespace Alkatreszek
                             }
                             break;
                         case "monitor":                                                                 //monitor
-                            monitor[1] = StringInput("Add meg a gyártóját:");
+                            monitor[1] = StringInput("Add meg a gyártóját:").ToLower();
                             monitor[2] = IntInput("Add meg a méretét(inch): ");
-                            monitor[3] = StringInput("Add meg a felbontását: ");
-                            monitor[4] = IntInput("Add meg a képfrissítési gyakoriságot(hz): ");
-                            monitor[5] = IntInput("Add meg az árát: ");
+                            monitor[3] = StringInput("Add meg a felbontását: ").ToLower();
+                            monitor[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
                                 OutputFile.Write($"{monitor[0]},{monitor[1]},{monitor[2]},{monitor[3]},{monitor[4]}\n");
                             }
                             break;
                         case "keyboard":                                                               //keyboard
-                            keyb[1] = StringInput("Add meg a gyártóját: ");
-                            keyb[2] = StringInput("Mechanikus vagy membrán: ");
-                            keyb[3] = IntInput("Add meg az árát: ");
+                            keyb[1] = StringInput("Add meg a gyártóját: ").ToLower();
+                            keyb[2] = StringInput("Mechanikus vagy membrán: ").ToLower();
+                            keyb[3] = StringInput("Van e num pad: ").ToLower();
+                            keyb[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
-                                OutputFile.Write($"{keyb[0]},{keyb[1]},{keyb[2]},{keyb[3]}\n");
+                                OutputFile.Write($"{keyb[0]},{keyb[1]},{keyb[2]},{keyb[3]}, {keyb[4]}\n");
                             }
                             break;
                         case "mouse":                                                                   //mouse
-                            mouse[1] = StringInput("Add meg a gyártóját: ");
-                            mouse[2] = StringInput("Lézeres vagy optikai: ");
-                            mouse[3] = IntInput("Add meg az árát: ");
+                            mouse[1] = StringInput("Add meg a gyártóját: ").ToLower();
+                            mouse[2] = StringInput("Lézeres vagy optikai: ").ToLower();
+                            mouse[3] = IntInput("Mekkora az érzékenysége(DPI): ");
+                            mouse[4] = IntInput("Add meg az árát: ");
                             using (StreamWriter OutputFile = new StreamWriter("proba.txt", true))
                             {
-                                OutputFile.Write($"{mouse[0]},{mouse[1]},{mouse[2]},{mouse[3]}\n");
+                                OutputFile.Write($"{mouse[0]},{mouse[1]},{mouse[2]},{mouse[3]},{mouse[4]}\n");
                             }
                             break;
                     }
