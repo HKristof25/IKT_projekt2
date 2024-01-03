@@ -1,0 +1,574 @@
+<h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div> 3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>5456</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>6454</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4543</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>5456</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>6454</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4543</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>5456</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>6454</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4543</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>5456</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>6454</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4543</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>-65000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>-407186</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>-548873</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>-39</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>-70928</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>-83902</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>-59059</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>-260000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>-130000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>25000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>156610</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>211105</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>15</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>27280</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>32270</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>22715</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>100000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>50000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>0</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>0</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>0</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>0</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>0</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>0</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>0</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>0</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>0</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>500</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>3130</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>4220</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>0</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>540</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>640</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>450</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>2000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>1000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>4500</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>28192</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>38001</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>4916</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>5814</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4093</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>18000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>9000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div> 3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>4916</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>5814</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4093</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div> 3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>5456</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>6454</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4543</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>5000</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>31322</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>42221</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div> 3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>5456</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>6454</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4543</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>20000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>10000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>integált</div>
+<div>vega 8</div>
+<div>4500</div></div></div><h2>Motherboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>b-450</div>
+<div>socket1200</div>
+<div>28192</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>24</div>
+<div>fullhd</div>
+<div>38001</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ifd</div>
+<div>fs</div>
+<div>dfs</div>
+<div>3</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5-1500</div>
+<div>8</div>
+<div>4916</div></div><div class="flex-item"><div>intel</div>
+<div>i5-65454</div>
+<div>5</div>
+<div>5814</div></div><div class="flex-item"><div>amd</div>
+<div>ryzen 3</div>
+<div>5</div>
+<div>4093</div></div></div><h2>Storage</h2>
+<div class="flex-container">
+<div class="flex-item"><div>samsung</div>
+<div>ssd</div>
+<div>500</div>
+<div>18000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>9000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>8100</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>4000mhz</div>
+<div>7290</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>9000</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>9000</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>9000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>auss</div>
+<div>dedikált</div>
+<div>gtx 1051</div>
+<div>12740</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>8280</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>auss</div>
+<div>dedikált</div>
+<div>gtx 1051</div>
+<div>12880</div></div></div>

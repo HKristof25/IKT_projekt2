@@ -1,0 +1,5 @@
+cpu,intel,i5-10400,3.5ghz,6,40000
+cpu,intel,i5-9400,3.4,6,45421
+cpu,amd,ryzen 3,3.4ghz,4,300000
+cpu,intel,i5-1255,8,45456
+cpu,intel,i5-2123,7,45445

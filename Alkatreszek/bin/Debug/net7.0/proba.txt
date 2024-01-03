@@ -1,0 +1,2 @@
+cpu,intel,i5,8,9000
+graphics card,auss,dedikált,gtx 1051,14000

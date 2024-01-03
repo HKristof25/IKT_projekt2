@@ -1,0 +1,14 @@
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\bin\Debug\net7.0\Alkatreszek.exe
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\bin\Debug\net7.0\Alkatreszek.deps.json
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\bin\Debug\net7.0\Alkatreszek.runtimeconfig.json
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\bin\Debug\net7.0\Alkatreszek.dll
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\bin\Debug\net7.0\Alkatreszek.pdb
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.AssemblyInfoInputs.cache
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.AssemblyInfo.cs
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.csproj.CoreCompileInputs.cache
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.dll
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\refint\Alkatreszek.dll
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.pdb
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\Alkatreszek.genruntimeconfig.cache
+C:\Users\Cornuta Dávid\source\repos\Alkatreszek\obj\Debug\net7.0\ref\Alkatreszek.dll
