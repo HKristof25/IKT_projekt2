@@ -235,7 +235,7 @@ namespace Alkatreszek
         {
             bool VanTermek = false;
             string termek;
-            int akcio;
+            double akcio;
                 Console.Write("Melyik alkatrész fajtának szeretnéd csökkenteni az árát(összes/egyik se is lehet): ");
                 termek = Console.ReadLine();
             foreach (var item in list)
@@ -273,18 +273,18 @@ namespace Alkatreszek
 
         public void html()
         {
-            var groupedItems = list.GroupBy(item => item.Elso.ToString());
+            var items = list.GroupBy(item => item.Elso.ToString());
 
             using (StreamWriter OutputFile = new StreamWriter("html.txt", true))
             {
-                foreach (var group in groupedItems)
+                foreach (var x in items)
                 {
-                    string category = group.Key;
+                    string tip = x.Key;
 
-                    string html = $"<h2>{GetCategoryTitle(category)}</h2>\n" +
+                    string html = $"<h2>{Visszaadas(tip)}</h2>\n" +
                                   $"<div class=\"flex-container\">\r\n";
 
-                    foreach (var item in group)
+                    foreach (var item in x)
                     {
                         html += $"<div class=\"flex-item\">" +
                                 $"<div>{item.Masodik}</div>\r\n" +
@@ -301,9 +301,9 @@ namespace Alkatreszek
             }
         }
 
-        private string GetCategoryTitle(string category)
+        private string Visszaadas(string category)
         {
-            switch (category)
+            switch (tip)
             {
                 case "cpu":
                     return "CPU";

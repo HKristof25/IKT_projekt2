@@ -1,0 +1,10 @@
+cpu,intel,i5,8,35000
+graphics card,asus,dedikált,gtx 1660,60000
+ram,gigabyte,8,3500,4000
+mouse,logitech,lézeres,8000,10000
+keyboard,ligutech,mechanikus,igen, 70000
+cpu,intel,i5,8,40000
+graphics card,asus,dedikált,rtx 3060,120000
+ram,kingstone,16,40000,16200
+monitor,aoc,24,1920*1080,145220
+keyboard,asus,membrán,nincs, 10000

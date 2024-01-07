@@ -1,0 +1,78 @@
+<h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>35000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>dedikált</div>
+<div>gtx 1660</div>
+<div>60000</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>17500</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>dedikált</div>
+<div>gtx 1660</div>
+<div>30000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>3500</div>
+<div>2000</div></div></div><h2>Mouse</h2>
+<div class="flex-container">
+<div class="flex-item"><div>logitech</div>
+<div>lézeres</div>
+<div>8000</div>
+<div>5000</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ligutech</div>
+<div>mechanikus</div>
+<div>igen</div>
+<div>35000</div></div></div><h2>CPU</h2>
+<div class="flex-container">
+<div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>17500</div></div><div class="flex-item"><div>intel</div>
+<div>i5</div>
+<div>8</div>
+<div>20000</div></div></div><h2>Graphics card</h2>
+<div class="flex-container">
+<div class="flex-item"><div>asus</div>
+<div>dedikált</div>
+<div>gtx 1660</div>
+<div>30000</div></div><div class="flex-item"><div>asus</div>
+<div>dedikált</div>
+<div>rtx 3060</div>
+<div>60000</div></div></div><h2>RAM</h2>
+<div class="flex-container">
+<div class="flex-item"><div>gigabyte</div>
+<div>8</div>
+<div>3500</div>
+<div>2000</div></div><div class="flex-item"><div>kingstone</div>
+<div>16</div>
+<div>40000</div>
+<div>8100</div></div></div><h2>Mouse</h2>
+<div class="flex-container">
+<div class="flex-item"><div>logitech</div>
+<div>lézeres</div>
+<div>8000</div>
+<div>5000</div></div></div><h2>Keyboard</h2>
+<div class="flex-container">
+<div class="flex-item"><div>ligutech</div>
+<div>mechanikus</div>
+<div>igen</div>
+<div>35000</div></div><div class="flex-item"><div>asus</div>
+<div>membrán</div>
+<div>nincs</div>
+<div>5000</div></div></div><h2>Monitor</h2>
+<div class="flex-container">
+<div class="flex-item"><div>aoc</div>
+<div>24</div>
+<div>1920*1080</div>
+<div>72620</div></div></div>
